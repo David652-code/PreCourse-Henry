@@ -1,2 +1,1 @@
-# PreCourse-Henry
-repositorio de prueba henry
+prueba de como crear un repositorio y clonarlo en el computador desde github en el pc
